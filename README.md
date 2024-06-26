@@ -8,7 +8,7 @@ Below are some bug report samples that I wrote while working on previous project
 **Steps to reproduce:** 
 1. Go to www.website.com/login
 2. Add a correct user/pass
-3. 
+   
 **Expected result:** User should be able to login and is taken to his profile page.
 
 **Actual result:** User is not logged in and no error appears.
@@ -25,7 +25,7 @@ Below are some bug report samples that I wrote while working on previous project
 3. Press Add to cart button
 4. Click on Ok 
 5. Go to Cart
-6. 
+   
 **Expected result:** User should be able to see the curreny near the price in order to know how much they have to pay.
 
 **Actual result:** The user only sees the price, without knowing in which currency it is displayed.
@@ -39,7 +39,7 @@ Below are some bug report samples that I wrote while working on previous project
 **Steps to reproduce:** 
 1. Go to https://www.demoblaze.com/index.html
 2. Click on the image on the top carousel
-3. 
+   
 **Expected result:** User should be redirected to the specific product page in order to purchase it directly.
 
 **Actual result:** Nothing happens, the user is not redirected to the specific product page.
@@ -53,7 +53,7 @@ Below are some bug report samples that I wrote while working on previous project
 **Steps to reproduce:**
 1. Go to [XYZ Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login) 
 2. Click on Home button
-3. 
+   
 **Expected result:** User should be redirected to the Home page.
 
 **Actual result:** Nothing happens, user is not redirected to the Home page and no error message is displayed.
@@ -68,7 +68,7 @@ Below are some bug report samples that I wrote while working on previous project
 1. Go to [XYZ Bank](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login) 
 2. Click on Customer login button
 3. Click on Your name: field
-4. 
+   
 **Expected result:** User should be able to enter his name in the Your name: field.
 
 **Actual result:** User can only choose from a few predefined names.
