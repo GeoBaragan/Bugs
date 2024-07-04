@@ -1,7 +1,7 @@
 # Bugs
 Below are some bug report samples that I wrote while working on previous projects.
 
-##**1. Login is not working properly** 
+**1. Login is not working properly** 
 
 **Description:** When trying to login with the correct credentials, nothing happens. The user is not logged in and no error message is displayed.
 
@@ -15,7 +15,7 @@ Below are some bug report samples that I wrote while working on previous project
 
 **Test data:** User: georgiana & password: 123456
 
-##**2. Price currency is not displayed in the cart**
+**2. Price currency is not displayed in the cart**
 
 **Description:** After products are added to cart, the price currency is no longer displayed near the price.
 
